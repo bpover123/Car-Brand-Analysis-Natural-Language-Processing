@@ -16,7 +16,7 @@ In this assignment, I am an analytics consultant by JD power and Associates, who
 
 **Task E:** What insights can you offer to your client from your analyses in Tasks C and D 
 
-**Task F:** What are 5 most frequently mentioned attributes or features of cars in the discussions? Which attributes are most strongly associated with which of these 5 brands? You DON’T have to do a sentiment analysis for this assignment.
+**Task F:** What are 5 most frequently mentioned attributes or features of cars in the discussions? Which attributes are most strongly associated with which of these 5 brands? (Assume positive sentiment)
 
 **Task G:** What advice will you give to your client from Task F? For this assignment, you can assume that all sentiments are positive. 
 
